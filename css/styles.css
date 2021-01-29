@@ -1,0 +1,17 @@
+.navbar-brand{
+	padding-left: 30px;
+}
+.jumbotron{
+	padding: 20px 0px;
+}
+.Chicken,.Beef,.Sushi{
+	background-color: #fff0ff;
+	padding:10px;
+}
+.heading{
+	font-size:23px;
+	padding:15px;
+}
+.Sushi .content{
+	padding-bottom: 40px;
+}
